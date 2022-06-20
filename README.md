@@ -4,7 +4,7 @@
 
 - 🏛 Open for jobs
 - ☕ Coffee Lover ❤
-- 🔞 20 years old
+- 🔞 21 years old
 - 📚 I want to learn Data Science
 
 <a href="https://www.linkedin.com/in/bekhzod-sadullayev-541819172/">
