@@ -7,8 +7,8 @@
 - 🔞 21 years old
 - 📚 I want to learn Data Science
 
-<a href="https://www.linkedin.com/in/bekhzod-sadullayev-541819172/">
-  <img align="left" alt="Mukhammadakbar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/abdulaminxonhaydarov/">
+  <img align="left" alt="Abdulaminkhon's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/webdastur">
   <img align="left" alt="Abdulaminkhon's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
