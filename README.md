@@ -4,8 +4,8 @@
 
 - 🏛 Open for jobs
 - ☕ Coffee Lover ❤
-- 🔞 21 years old
-- 📚 I want to learn Data Science
+- 🔞 22 years old
+- 📚 Learning Data Science
 
 <a href="https://www.linkedin.com/in/abdulaminxonhaydarov/">
   <img align="left" alt="Abdulaminkhon's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
